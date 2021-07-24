@@ -7,12 +7,9 @@ if user ==username:
 	if pass_word==Password:
 	 	print("You, are Logged In as Owner")
 	else:
-		print("In Valid Password")
-
+	print("In Valid Password")
 else:
 	print ("Invalid Username")
-
-
 print ("Thank You, Vist Again")
 
 
